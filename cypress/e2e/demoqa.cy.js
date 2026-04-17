@@ -1,6 +1,6 @@
 import { HomePage } from "../pageObjects/homePage";
 
-describe("Juice-shop scenarios", () => 
+describe("Homework1", () => 
 {
   beforeEach(() => 
   {
